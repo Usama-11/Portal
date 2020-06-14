@@ -77,7 +77,7 @@ namespace Portal.API.Data
             await _context.Students.AddAsync(student);
             await _context.SaveChangesAsync();
 
-            return student;
+            return student; 
         }
 
         private void CreatePasswordHash(string password, out byte[] passwordHash, out byte[] passwordSalt)
