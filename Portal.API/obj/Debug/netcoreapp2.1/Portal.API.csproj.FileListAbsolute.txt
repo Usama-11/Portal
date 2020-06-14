@@ -1,0 +1,14 @@
+F:\Usama\Work\Portal.API\obj\Debug\netcoreapp2.1\Portal.API.csprojAssemblyReference.cache
+F:\Usama\Work\Portal.API\obj\Debug\netcoreapp2.1\Portal.API.csproj.CoreCompileInputs.cache
+F:\Usama\Work\Portal.API\obj\Debug\netcoreapp2.1\Portal.API.RazorAssemblyInfo.cache
+F:\Usama\Work\Portal.API\obj\Debug\netcoreapp2.1\Portal.API.RazorAssemblyInfo.cs
+F:\Usama\Work\Portal.API\obj\Debug\netcoreapp2.1\Portal.API.AssemblyInfoInputs.cache
+F:\Usama\Work\Portal.API\obj\Debug\netcoreapp2.1\Portal.API.AssemblyInfo.cs
+F:\Usama\Work\Portal.API\bin\Debug\netcoreapp2.1\Portal.API.deps.json
+F:\Usama\Work\Portal.API\bin\Debug\netcoreapp2.1\Portal.API.runtimeconfig.json
+F:\Usama\Work\Portal.API\bin\Debug\netcoreapp2.1\Portal.API.runtimeconfig.dev.json
+F:\Usama\Work\Portal.API\bin\Debug\netcoreapp2.1\Portal.API.dll
+F:\Usama\Work\Portal.API\bin\Debug\netcoreapp2.1\Portal.API.pdb
+F:\Usama\Work\Portal.API\obj\Debug\netcoreapp2.1\Portal.API.RazorTargetAssemblyInfo.cache
+F:\Usama\Work\Portal.API\obj\Debug\netcoreapp2.1\Portal.API.dll
+F:\Usama\Work\Portal.API\obj\Debug\netcoreapp2.1\Portal.API.pdb
